@@ -17,7 +17,7 @@ namespace Task2
         }
         static void Main(string[] args)
         {
-            Console.WriteLine(IsSameElement(new int[] { 1, 2, 3, 4, 5, 6, 7, 1, 8, 9, 10 }));
+            Console.WriteLine(IsSameElement(new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 }));
         }
     }
 }
